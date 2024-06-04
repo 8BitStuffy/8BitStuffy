@@ -1,7 +1,7 @@
 # 8BitStuffy | *Digital Creator*
 
 <p align="center">
-  Hello!! I'm 8BitStuffy, also known as Stuffy, 8, or 8Bit. I'm just your local pixel enthusiast who specializes in art, programming and horror. Check out my socials to see more of what I do!!
+  Hello!! I'm 8BitStuffy, also known as Stuffy, 8, or 8Bit. I'm just your local pixel enthusiast who specializes in art, programming and horror. Click on my socials below to see more of what I do!!
 </p>
 
 <p align="center">
@@ -57,13 +57,13 @@
 
 ## [📱] Socials...
 <p align="left">
- <a href="https://www.instagram.com/8bitstuffy/">
+ <a href="https://www.instagram.com/8bitstuffy/" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
- <a href="https://www.youtube.com/channel/UCJoOfqVnrrMZv3XX6cNpBzA">
+ <a href="https://www.youtube.com/channel/UCJoOfqVnrrMZv3XX6cNpBzA" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="Youtube" style="vertical-align:top; margin:6px 4px">
   </a>  
- <a href="https://www.twitch.tv/8bitstuffy">
+ <a href="https://www.twitch.tv/8bitstuffy" target="_blank">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg" alt="Twitch" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
