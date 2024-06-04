@@ -57,13 +57,13 @@
 
 ## [📱] Socials...
 <p align="left">
- <a href="https://www.instagram.com/8bitstuffy/" target="_blank">
+ <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCJoOfqVnrrMZv3XX6cNpBzA">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
- <a href="https://www.youtube.com/channel/UCJoOfqVnrrMZv3XX6cNpBzA" target="_blank">
+ <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCJoOfqVnrrMZv3XX6cNpBzA">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="Youtube" style="vertical-align:top; margin:6px 4px">
   </a>  
- <a href="https://www.twitch.tv/8bitstuffy" target="_blank">
+ <a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/8bitstuffy">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg" alt="Twitch" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
