@@ -1,7 +1,7 @@
 # 8BitStuffy | *Digital Creator*
 
 <p align="center">
-  Hello!! I'm 8BitStuffy, also known as just Stuffy, 8, or 8Bit. I'm just your local pixel enthusiast who specializes in art, programming and horror. Check out my socials to see more of what I do!!
+  Hello!! I'm 8BitStuffy, also known as Stuffy, 8, or 8Bit. I'm just your local pixel enthusiast who specializes in art, programming and horror. Check out my socials to see more of what I do!!
 </p>
 
 <p align="center">
@@ -35,6 +35,8 @@
   </a>  
 </p>
 
+#
+
 ## [💜] Frameworks/Services/Programs...
 <p align="left">
  <a href="#">
@@ -50,6 +52,8 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
+
+#
 
 ## [📱] Socials...
 <p align="left">
